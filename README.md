@@ -1,0 +1,2 @@
+# web_application_fingerprinting_mindmap
+Web Application Fingerprinting Mindmap
