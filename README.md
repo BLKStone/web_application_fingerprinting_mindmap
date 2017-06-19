@@ -1,2 +1,7 @@
-# web_application_fingerprinting_mindmap
+# Web Application Fingerprinting Mindmap
+
 Web Application Fingerprinting Mindmap
+
+# TODO
+
+There will be an English edition soooooon ....
